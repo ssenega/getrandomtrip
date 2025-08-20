@@ -59,10 +59,10 @@ export default function FamilyHero(): JSX.Element {
             {/* CTAs */}
             <div className="mt-8 flex flex-wrap gap-3">
               <Link href="#planner" className="btn-primary">
-                Armar mi viaje
+                👉 Comenzar mi Randomtrip en familia
               </Link>
-              <Link href="#family-inspiration" className="btn-secondary">
-                Inspírame →
+              <Link href="#inspiracion-families" className="btn-secondary">
+                👉 Ver inspiración de viajes familiares
               </Link>
             </div>
           </div>
